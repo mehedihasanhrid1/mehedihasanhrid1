@@ -1,72 +1,83 @@
-﻿![](https://komarev.com/ghpvc/?username=mehedihasanhrid1&color=brightgreen&base=1000&style=flat-square)
+![](https://komarev.com/ghpvc/?username=mehedihasanhrid1&color=brightgreen&base=1000&style=flat-square)
+
 <div align="center">
     <img src="image/about.png" alt="mehedihasanhrid1" width="100%">
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=1000&color=4CC61E&width=450&lines=Mehedi+Hasan;Frontend+Developer;ReactJS+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=1000&color=4CC61E&width=500&lines=Mehedi+Hasan;Frontend+Engineer;React+%26+Next.js+Specialist;Full-Stack+Focused)](https://git.io/typing-svg)
 
-# :technologist: About Me
+# 👨‍💻 About Me
   
-#### Self-motivated and adaptable web developer with a strong passion for continuous learning and staying up-to-date with the latest industry trends and technologies.  
+#### Results-driven Frontend Engineer with a strong foundation in scalable UI architecture, performance optimization, and modern JavaScript ecosystems. Passionate about building production-ready applications, mentoring learners, and continuously evolving with industry best practices.
+
+---
+
+# 👀 2026 Snapshot
  
-# :eyes: Current Overview
- 
-### 🥅 Goals of 2024 - GraphQL, MySQL, Prisma, Docker, React-Native, AWS <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%" />
+### 🎯 Strategic Goals – 2026  
+**Advanced Next.js**, **GraphQL at Scale**, **Prisma**, **Dockerized Apps**, **React Native**, **AWS Cloud Fundamentals**, **System Design Basics**  
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="18%" />
 
-### 🌱 I’m exploring - Advance motion graphics for web. 
+### 🌱 Currently Exploring  
+High-performance animations, advanced motion design, and UX micro-interactions for modern web platforms.
 
-### 🤝 I’m looking - To collaborate on open-source projects 
+### 🤝 Open to  
+Meaningful open-source collaboration, frontend architecture discussions, and scalable SaaS projects.
 
-### 🧣 I’m currently - Mastering Mongoose & Typescript
+### 🧣 Actively Strengthening  
+**TypeScript**, **Mongoose**, **Backend integrations**, and **clean code patterns**.
 
-### 💤 Fun fact - Still thinking.. 
+### ☕ Fun Fact  
+Shipping features first, refactoring later — strategically.
 
-# :computer: Technologies That I Know
+---
 
-## ⚡Frontend
+# 💻 Technologies & Skill Stack
 
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50"/>  | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="50"/> | <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="next-js" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="material-ui" width="50"/>
-| ------------------------------------------------------------------------------------------------------------------------------------- |  ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | 
+## ⚡ Frontend
 
-## ⚡Backend
+| HTML | CSS | Tailwind | JavaScript | React | Next.js | Redux | TypeScript | MUI |
+|------|-----|----------|------------|-------|---------|-------|------------|-----|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50"/> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/> | <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50"/> |
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50"/> | <img src="https://skillicons.dev/icons?i=express" alt="express" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50"/> | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50"/> |
-| ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+## ⚡ Backend
 
-## ⚡Tools
+| Node.js | Express | MongoDB | Firebase |
+|--------|---------|---------|----------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/> | <img src="https://skillicons.dev/icons?i=express" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/> | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50"/> |
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="50"/> | <img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="photoshop" width="50"/> |<img src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" width="50"/> | <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="50"/> | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="vs-code" width="50"/> |<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="Github" width="50"/> |<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" alt="Bash" width="50"/> | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Regex-Dark.svg" alt="Regex" width="50"/> |<img src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" width="50"/> | 
-| ---------------------------------------------------------------------------------------------------------| --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |--------------------------------------------------------------------------------------------------------- |--------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+## ⚡ Tools & Workflow
 
+| Git | Figma | Photoshop | Illustrator | Vercel | VS Code | GitHub | Bash | Regex | PowerShell |
+|-----|-------|-----------|-------------|--------|---------|--------|------|-------|------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/> | <img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" width="50"/> | <img src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" width="50"/> | <img src="https://skillicons.dev/icons?i=vercel" width="50"/> | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="50"/> | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="50"/> | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" width="50"/> | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Regex-Dark.svg" width="50"/> | <img src="https://profilinator.rishav.dev/skills-assets/powershell.png" width="50"/> |
 
-# :star2: Reach Me Out
+---
+
+# 🌐 Connect With Me
 
 <div align="left">
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35"/>
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35"/>
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&color=1877F2&style=for-the-badge" height="35"/>
+  <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&color=25D366&style=for-the-badge" height="35"/>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&style=for-the-badge" height="35"/>
+  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&style=for-the-badge" height="35"/>
 </div>
 
+---
 
-# :chart_with_upwards_trend: Current Stats
+# 📊 GitHub Performance Metrics
 
 <div align="center">
 
-<div>
-  <img width="96%"  src="https://github-readme-streak-stats.herokuapp.com?user=mehedihasanhrid1&theme=react&hide_border=false&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
-</div>
+<img width="96%" src="https://github-readme-streak-stats.herokuapp.com?user=mehedihasanhrid1&theme=react&background=0D1117"/>
 
-<div tyle="display: flex; justify-content: space-between;gap:2px; margin-top: 4px; margin-bottom: 4px;">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mehedihasanhrid1&theme=radical&show_icons=true&hide_border=false&count_private=true" />
-  <img width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasanhrid1&theme=radical&show_icons=true&hide_border=false&layout=compact" />
-</div>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mehedihasanhrid1&theme=radical&show_icons=true&count_private=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasanhrid1&theme=radical&layout=compact"/>
 
-<div>
-  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehedihasanhrid1&theme=github_dark" width="96%"  />
-</div>
+<img width="96%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehedihasanhrid1&theme=github_dark"/>
 
 </div>
